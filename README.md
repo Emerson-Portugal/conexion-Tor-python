@@ -33,6 +33,6 @@ Es este script escrito en `python` utilizamos la red de Tor para hacer consultas
 | GeoIP            | PE:ARE:Arequipa              | -                                            |
 
 
-## Resumen 
+## Conclusion 
 
 Como se puede observar, al realizar una solucitud `GET Normal`, se puede extraer mas informacion pero el costo es que revelas informacion como tu `Ubicacion` e `IP`, en cambio si usar la red Tor, podemos extraer menos informacion pero sin revelar nuestra `Ubicacion` o `IP`. 
